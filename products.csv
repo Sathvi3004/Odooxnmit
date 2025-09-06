@@ -1,0 +1,13 @@
+id,title,description,price,category,location,seller_id,seller_name,seller_contact,status,created_at
+1,MacBook Pro 2020,"Excellent condition laptop, barely used",899,Electronics,Like New,1,John Doe,N/A,available,2024-01-01
+2,Vintage Leather Jacket,"Classic brown leather jacket, size M",65,Clothing,Good,1,John Doe,N/A,available,2024-01-01
+3,Python Programming Book,Learn Python the Hard Way - great condition,25,Books,Good,2,Jane Smith,N/A,available,2024-01-01
+4,Gaming Chair,Comfortable ergonomic gaming chair,120,Furniture,Like New,2,Jane Smith,N/A,available,2024-01-01
+6,sofa,4 seater,499,Furniture,Good,1,deeksha,N/A,available,2025-09-06 13:14:38
+7,samsung s25,phone,600,Electronics,Like New,1,deeksha,N/A,available,2025-09-06 13:17:36
+14085bc2-91a7-4256-8eed-38428803e7d2,iphone 14 pro,it good,50000,Electronics,yelahanka,1,deeksha,N/A,available,2025-09-06 15:23:34
+8,Wireless Earbuds,Noise-cancelling Bluetooth earbuds,120,Electronics,New,3,Alex Kim,N/A,available,2025-09-07 09:30:00
+9,Mountain Bike,Lightweight bike for trails and city,450,Sports,Good,3,Alex Kim,N/A,available,2025-09-07 10:15:00
+10,Canvas Backpack,Spacious backpack for college or travel,35,Clothing,Like New,2,Jane Smith,N/A,available,2025-09-07 11:00:00
+11,Blender,High-speed kitchen blender,80,Home & Kitchen,New,1,John Doe,N/A,available,2025-09-07 12:45:00
+12,Yoga Mat,Non-slip eco-friendly yoga mat,25,Sports,New,4,Riya Patel,N/A,available,2025-09-07 14:20:00
